@@ -28,10 +28,8 @@ Here are some ideas to get you started:
 <h2 align="center">Skills</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6%20%7C%20React%20%7C%20Node.js%20%7C%20Express.js-blue" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML%2FCSS-Bootstrap%20%7C%20Sass%20%7C%20CSS%20Grid%20%7C%20Flexbox-orange" alt="HTML/CSS">
-  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20MongoDB%20%7C%20SQLite-green" alt="Databases">
-  <img src="https://img.shields.io/badge/Tools-Git%20%7C%20Docker%20%7C%20AWS%20%7C%20Heroku-brightgreen" alt="Tools">
+ <img src="https://skillicons.dev/icons?i=js,html,css,wasm)"
+ 
 </p>
 
 <!-- Projects -->
