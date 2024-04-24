@@ -28,21 +28,22 @@ Here are some ideas to get you started:
 <h2 align="center">Skills</h2>
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=js,html,css,wasm)"
- 
+ <img src="https://skillicons.dev/icons?i=html,css,js,wasm,tailwind,visualstudio)"
 </p>
 
 <!-- Projects -->
 <h2 align="center">Projects</h2>
 
 <p align="center">
-  <a href="link-to-project-1"><img src="project-1-thumbnail.jpg" width="200" alt="Project 1"></a>
-  <a href="link-to-project-2"><img src="project-2-thumbnail.jpg" width="200" alt="Project 2"></a>
+  <a href="https://codepen.io/Cedrick-Monare/pen/rNbMbqX"><img src="project-1-thumbnail.jpg" width="200" alt="Project 1"></a>
+  <a href="https://github.com/CedrickMonare/MATMON606_FTO2403_GroupC_MatlhogonoloMonare_SDF08"><img src="project-2-thumbnail.jpg" width="200" alt="Project 2"></a>
+  <a href="https://github.com/CedrickMonare/MATMON606_FTO2403_GroupC_MatlhogonoloMonare_SDF05"><img src="project-2-thumbnail.jpg" width="200" alt="Project 3"></a>
+  <a href="https://github.com/CedrickMonare/MATMON606_FTO2403_GroupC_MatlhogonoloMonare_SDF11"><img src="project-2-thumbnail.jpg" width="200" alt="Project 4"></a>
 </p>
 
 <!-- Description -->
-<p align="center">Check out some of my projects:</p>
-<a href="https://github.com/CedrickMonare/MATMON606_FTO2403_GroupC_MatlhogonoloMonare_SDF11"></a>
+<!-- Description --> <p align="center">Check out some of my projects:</p>
+<!-- Description --> <a href="https://github.com/CedrickMonare/MATMON606_FTO2403_GroupC_MatlhogonoloMonare_SDF11"></a>
   
 <!-- Contributions -->
 <p align="center">
